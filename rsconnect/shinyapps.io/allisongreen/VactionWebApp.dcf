@@ -1,0 +1,12 @@
+name: VactionWebApp
+title: VactionWebApp
+username:
+account: allisongreen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3385494
+bundleId: 3972256
+url: https://allisongreen.shinyapps.io/VactionWebApp/
+when: 1607630229.01693
+asMultiple: FALSE
+asStatic: FALSE
